@@ -1,0 +1,12 @@
+{
+  "devDependencies": {
+    "@parcel/transformer-less": "2.12.0",
+    "parcel": "2.12.0"
+  },
+  "dependencies": {
+    "preact": "10.19.3",
+    "react-dom": "18.2.0",
+    "typescript": "5.4.5"
+  },
+  "browserslist": ["and_uc < 15.6"]
+}
